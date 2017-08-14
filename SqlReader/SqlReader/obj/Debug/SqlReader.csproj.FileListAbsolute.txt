@@ -1,0 +1,6 @@
+\\moadb\admin email archives\moconnor\visual studio 2015\Projects\SqlReader\SqlReader\bin\Debug\SqlReader.exe.config
+\\moadb\admin email archives\moconnor\visual studio 2015\Projects\SqlReader\SqlReader\bin\Debug\SqlReader.exe
+\\moadb\admin email archives\moconnor\visual studio 2015\Projects\SqlReader\SqlReader\bin\Debug\SqlReader.pdb
+\\moadb\admin email archives\moconnor\visual studio 2015\Projects\SqlReader\SqlReader\obj\Debug\SqlReader.csprojResolveAssemblyReference.cache
+\\moadb\admin email archives\moconnor\visual studio 2015\Projects\SqlReader\SqlReader\obj\Debug\SqlReader.exe
+\\moadb\admin email archives\moconnor\visual studio 2015\Projects\SqlReader\SqlReader\obj\Debug\SqlReader.pdb
